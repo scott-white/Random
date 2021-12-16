@@ -1,3 +1,5 @@
+# Following along through this tutorial: https://www.youtube.com/watch?v=IdhnP00Y1Ks
+
 using VegaLite, DataFrames, Query, VegaDatasets
 
 cars = dataset("cars")
